@@ -1079,7 +1079,7 @@ form.subscribar-form {
     .top-to-bottom{display: none;}
       
     }
- @media only screen and (max-width:500px) {
+ @media only screen and (max-width:600px) {
     ul.header-main\.1st-nave-left{
         gap: 5px;
     }
