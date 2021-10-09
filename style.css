@@ -674,6 +674,7 @@ img.img-fulid {
 }
 
 .main-team {
+    justify-content: center;
     gap: 36px;
     margin-bottom: 50px;
     margin-top: 30px;
@@ -1078,4 +1079,9 @@ form.subscribar-form {
     .top-to-bottom{display: none;}
       
     }
- 
+ @media only screen and (max-width:500px) {
+    ul.header-main\.1st-nave-left{
+        gap: 5px;
+    }
+     
+ }
