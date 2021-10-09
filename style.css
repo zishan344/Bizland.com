@@ -1079,9 +1079,21 @@ form.subscribar-form {
     .top-to-bottom{display: none;}
       
     }
- @media only screen and (max-width:600px) {
+ @media only screen and (max-width:500px) {
     ul.header-main\.1st-nave-left{
         gap: 5px;
     }
      
  }
+ @media only screen and (max-width:415px) {
+    ul.header-main\.1st-nave-left{
+        gap: 15px;
+        font-size: 10px;
+    }
+
+    i.far.fa-envelope {
+        padding: 2px 4px 0px 1px;
+    }
+     
+ }
+
